@@ -1,4 +1,4 @@
-# Aivazovski page
+# Repin page
 ```
 Russian marine painter of American 
 ```
